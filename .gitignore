@@ -1,0 +1,15 @@
+# personal files (status report, peer evaluation, own literature review)
+docs/me/
+
+# Word and Office lock files
+~$*
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
